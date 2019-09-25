@@ -6,7 +6,7 @@ public class BookShop {
             сумму денег внесенную покупателем, если сдача не требуется печатает Спасибо,  и все возможные варианты=>
     небостаточно средст или возьмите сдачу*/
 
-   //Hello from Vovaffgj
+   //Hello from Vovaffgjn jnj
 
     public static void main(String[] args) {
         Scanner scanner = new  Scanner(System.in);
